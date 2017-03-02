@@ -1,0 +1,22 @@
+{
+  "name": "A_Category",
+  "version": "0.1.0",
+  "summary": "A short description of A_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/refrainc21@gmail.com/A_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "refrainc21@gmail.com": "317642637@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/refrainc21@gmail.com/A_Category.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "A_Category/Classes/**/*"
+}

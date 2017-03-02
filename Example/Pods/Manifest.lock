@@ -1,0 +1,16 @@
+PODS:
+  - A_Category (0.1.0)
+
+DEPENDENCIES:
+  - A_Category (from `../`)
+
+EXTERNAL SOURCES:
+  A_Category:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  A_Category: 93ad17adee52d5007f1cadb57365f5157904f3c7
+
+PODFILE CHECKSUM: 06610c8e8b9c2322ce499c9702c65455325d09ea
+
+COCOAPODS: 1.1.1
